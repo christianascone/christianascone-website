@@ -13,7 +13,6 @@ import { readingTimeRemarkPlugin } from './src/utils/frontmatter.mjs';
 
 import { SITE } from './src/config.mjs';
 // https://astro.build/config
-import react from "@astrojs/react";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
